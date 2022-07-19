@@ -1,4 +1,4 @@
-# Web3 Application
+# Web3.0 Application
 
 Blockchain is one of the emerging technologies that we see arising in the world. As someone who is studying and exploring different areas of applications of computer science, I was very excited to learn the fundamentals of blockchain, web3, and all the scenes behind them.
 
@@ -25,4 +25,3 @@ Inside the root project directory,
 cd client
 npm run dev
 ```
-# web3.0
